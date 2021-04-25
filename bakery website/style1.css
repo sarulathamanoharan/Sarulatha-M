@@ -1,0 +1,152 @@
+* {
+  box-sizing: border-box;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: brown;
+}
+.border:hover {
+  background-color: black;
+  color: white;
+}
+.box1{
+    width: 100%;
+	text-align: center;
+}
+.box-2{
+	width: 100%;
+}
+.box2{
+	 cursor:pointer;
+   font-family:"Brush Script MT";
+	font-size: 25px;
+   padding-left: 3px;
+   padding-right: 3px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+    text-align: center;
+	color :brown; 
+	width:16.66%;
+	float: left;
+}
+
+
+.box3{
+     float: left;   
+	width: 100%;
+}
+.box4{
+	color:white;
+   font-size: 60px;
+	 text-align: center;
+	 font-family:"Brush Script MT";
+	 padding-top:175px; 
+}
+.box5{
+	float: left;
+     font-size: 40px;
+	font-style: bold;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+	text-align: center;
+}
+.box6{
+	padding-left: 50px;
+	padding-right: 50px;
+    display: table;
+	width: 100%;
+}
+.image1{
+    padding-left: 55px;
+	width:25%;
+    float: left;
+}
+.name1{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-style: italic;
+	text-align: center;
+	width:25%;
+    float: left;
+}
+.image2{
+	padding-left: 99px;
+	width:33.33%;
+    float: left;
+}
+.name2{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-style: italic;
+	text-align: center;
+	width:33.33%;
+    float: left;
+}
+.border{
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+  border: 2px solid black;
+}
+.contact{
+	font-size: 25px;
+  cursor:pointer;
+   font-family:"Brush Script MT";
+  float: left;
+  padding-left: 550px;
+  padding-right: 550px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	 width: 100%;
+	text-align: center;
+	background-color:  #df9f9f;
+	font-style: bold;
+}
+.end-menu1{
+	float: left;
+	padding-top: 40px;
+	color:white;
+	font-style: bold;
+	width:100%;
+	text-align: center;
+	background-color: #cc6666;
+}
+.end-menu2{
+	padding-top: 30px;
+	padding-left: 140px;
+    padding-right: 30px;
+	display: table;
+	width: 100%;
+	background-color: #cc6666;
+}
+.endimage{
+	
+	float: left;
+	width:25%;
+}
+.content{
+	padding-left: 50px;
+	padding-right: 50px;
+	float: left;
+	width: 100%;
+	background-color: #cc6666;
+}
+.content1 {
+	padding-left: 50px;
+	padding-right: 20px;
+   float: left;
+   width: 33.33%;
+   color:white;
+}
+
+.end-menu3{
+	text-align: right;
+    white-space: pre-wrap;
+    padding-right: 150px;
+	width: 100%;
+	background-color: #cc6666;
+}

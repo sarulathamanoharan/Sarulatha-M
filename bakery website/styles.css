@@ -1,0 +1,128 @@
+
+* {
+  box-sizing: border-box;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: brown;
+}
+.border:hover {
+  background-color: black;
+  color: white;
+}
+.box1{
+	width: 100%;
+	text-align: center;
+}
+.box2{
+	width: 100%;
+}
+.box3{
+	 cursor:pointer;
+   font-family:"Brush Script MT";
+	font-size: 25px;
+   padding-left: 3px;
+   padding-right: 3px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+    text-align: center;
+	width:16.66%;
+	float: left;
+}
+.box4{
+    float: left;   
+	width: 100%;
+}
+.bg-name{
+	color: white;
+	 font-size: 60px;
+	 text-align: center;
+	 font-family:"Brush Script MT";
+	 padding-top:175px; 
+}
+.box5{
+	float: left;
+	font-size: 40px;
+	font-style: bold;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+	text-align: center;
+}
+.box6{ 
+	display:table;
+	width: 100%;
+}
+.box7{
+  float: left;
+  width: 33.33%;
+  padding-left: 25px;
+  padding-top: 10px;
+}
+.border{
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+  border: 2px solid black;
+}
+.contact{
+	font-size: 25px;
+  cursor:pointer;
+   font-family:"Brush Script MT";
+  float: left;
+   padding-left: 550px;
+  padding-right: 550px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	 width: 100%;
+	text-align: center;
+	background-color:  #df9f9f;
+	color:white;
+	font-style: bold;
+}
+.end-menu1{
+	float: left;
+	padding-top: 40px;
+	color:white;
+	font-style: bold;
+	width:100%;
+	text-align: center;
+	background-color: #cc6666;
+}
+.end-menu2{
+	padding-top: 30px;
+	padding-left: 140px;
+    padding-right: 30px;
+	display: table;
+	width: 100%;
+	background-color: #cc6666;
+}
+.endimage{
+	
+	float: left;
+	width:25%;
+}
+.content{
+	padding-left: 50px;
+	padding-right: 50px;
+	float: left;
+	width: 100%;
+	background-color: #cc6666;
+}
+.content1 {
+	padding-left: 50px;
+	padding-right: 20px;
+   float: left;
+   width: 33.33%;
+   color:white;
+}
+.end-menu3{
+	white-space: pre-wrap;
+    text-align: right;
+    padding-right: 150px;
+	width: 100%;
+	background-color: #cc6666;
+}
